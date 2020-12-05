@@ -35,5 +35,5 @@ const problem2 = (array) => {
   });
   console.log(validPassword);
 };
-// problem1(input);
+problem1(input);
 problem2(input);
